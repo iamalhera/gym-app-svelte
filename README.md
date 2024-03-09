@@ -1,4 +1,6 @@
-# create-svelte
+# Club Fitness: Gym Landing Page App
+
+This is a basic landing page application with responsiveness, state management and internal router func maade with purpose of learning Svelte.
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
