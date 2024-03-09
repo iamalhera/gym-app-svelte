@@ -2,6 +2,8 @@
 
 This is a basic landing page application with responsiveness, state management and internal router func maade with purpose of learning Svelte.
 
+![cFitness](./static/assets/cfitness.png)
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
 
 ## Creating a project
