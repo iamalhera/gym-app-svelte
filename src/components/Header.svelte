@@ -13,7 +13,7 @@
         </button>
         <nav class="hidden md:flex items-center gap-4 lg:gap-6">
             <a href= "#products" class="duration-200 hover:text-indigo-400 cursor-pointer">Products</a>
-            <a href= "#reviews" class="duration-200 hover:text-indigo-400 cursor-pointer">reviews</a>
+            <a href= "#reviews" class="duration-200 hover:text-indigo-400 cursor-pointer">Reviews</a>
             <a href= "#faqs" class="duration-200 hover:text-indigo-400 cursor-pointer">FAQs</a>
             <button class="specialBtn">
                 <p>Start free trail today</p>
